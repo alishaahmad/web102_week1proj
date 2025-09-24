@@ -36,7 +36,7 @@ Here's a walkthrough of implemented required features:
 
 Gif Link on imgur: https://imgur.com/a/ed0c2iz 
 
-YouTube Linke: https://youtu.be/D-ikEhIjTJE.gif 
+YouTube Link: https://youtu.be/D-ikEhIjTJE.gif 
 
 ## Notes
 
