@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - QC Tech Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: Alisha Ahmad
 
-This web app: **insert description**
+This web app: shows events & resources for CS students at Queens College.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -34,14 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Gif Link on imgur: https://imgur.com/a/ed0c2iz 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+YouTube Linke: https://youtu.be/D-ikEhIjTJE.gif 
 
 ## Notes
 
@@ -49,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Alisha Ahmad]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
